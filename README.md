@@ -72,14 +72,6 @@ pokedex/
 3. Select a Pokémon to view its details.
 4. Explore its stats, types, abilities, and other information.
 
-## Future Improvements
-
-* Add Pokémon filtering by type.
-* Add pagination.
-* Add favorites.
-* Add Pokémon evolution chains.
-* Add sorting and advanced search.
-* Add dark mode.
 
 ## License
 
